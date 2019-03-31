@@ -1,0 +1,6 @@
+framework module Pods_evgenAnswer {
+  umbrella header "Pods-evgenAnswer-umbrella.h"
+
+  export *
+  module * { export * }
+}

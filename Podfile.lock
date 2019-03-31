@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (4.7.3)
+  - CoreXLSX (0.4.0):
+    - XMLCoder (~> 0.3.1)
+    - ZIPFoundation (~> 0.9.8)
+  - SwiftyDropbox (5.0.0):
+    - Alamofire (~> 4.7.3)
+  - XMLCoder (0.3.1)
+  - ZIPFoundation (0.9.8)
+
+DEPENDENCIES:
+  - CoreXLSX (~> 0.4.0)
+  - SwiftyDropbox
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - CoreXLSX
+    - SwiftyDropbox
+    - XMLCoder
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  CoreXLSX: f66830376a1dee431eacef84508edd414085b515
+  SwiftyDropbox: 378b4425a2e8d0cb24c7b0f2e3af72bfbaaf1e73
+  XMLCoder: 449e4e90d6c7641ea2445f1b2c791fab72cdb18c
+  ZIPFoundation: b1f07e4409baf1641f3fe5948b2a1c3f5c500cb1
+
+PODFILE CHECKSUM: 678c15cef97cdc6063ea75acc3ed3ec668faf197
+
+COCOAPODS: 1.6.0.beta.1
